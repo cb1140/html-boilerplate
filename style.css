@@ -226,7 +226,10 @@ Thanks David !*/
 
 /*
 <<- Media Query Breakpoints ->>
-Credit to Bootstrap's Documentation*/
+Credit to Bootstrap's Documentation
+
+Media Queries should mainly be used for references to device proportions, and mainly cater to a more adaptive design than responsive
+For more responsive-centric CSS, check out Prisca's Clamp function for width/height or the responsive design lectures!*/
 
 /* X-Small devices (portrait phones, less than 576px) (should be your default if you're doing mobile-first!)*/
 
