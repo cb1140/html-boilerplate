@@ -224,6 +224,17 @@ Thanks David !*/
     }
 }
 
+
+/*
+<<- Links ->> 
+
+It's considered good practise to remember that links need to be clear and underlined, contrasted and focused,
+and have a clear state for each of the pseudo-classes
+All of the states are important for accessibility, such as the hover state helping those with reduced muscle control
+click links, and the visited state helping those with short-term memory loss with keeping track of read content*/
+
+a:unvisited, a:visited, a:hover, a:active, a:focus{
+}
 /*
 <<- Media Query Breakpoints ->>
 Credit to Bootstrap's Documentation
